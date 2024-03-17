@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Ramadhan Karim","Best Discord Bot"];
+const statusMessages = ["HERO SHOP","By Bleto_YT"];
 
 
 let currentIndex = 0;
